@@ -1,0 +1,22 @@
+{
+    "joueurs": [
+        {
+            "nom": "Joueur 1",
+            "prenom": "Jean",
+            "equipe": "jsp",
+            "numero": 3
+        },
+        {
+            "nom": "Joueur 2",
+            "prenom": "Jean",
+            "equipe": "jsp",
+            "numero": 34
+        },
+        {
+            "nom": "Joueur 3",
+            "prenom": "Jean",
+            "equipe": "jsp",
+            "numero": 39
+        }
+    ]
+}
